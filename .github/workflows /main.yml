@@ -1,5 +1,5 @@
 on: [push]
-name: Greeting Workflow
+name: Test Workflow
 jobs:
   build_job:
     runs-on: ubuntu-latest
